@@ -4,7 +4,7 @@ This repository documents my complete learning journey in Artificial Intelligenc
 
 The goal of this repo is not memorization or buzzwords, but deep conceptual understanding, strong intuition, and real-world applicability — explained in simple language using analogies, mental models, and hands-on examples.
 
-## 🎯 Why This Repository Exists
+## Why This Repository Exists
 
 Most AI resources jump straight into:
 - Heavy math
@@ -19,7 +19,7 @@ I am learning AI using a first-principles approach, focusing on:
 - Where it is used in the real world
 - How to think like an AI practitioner, not just use tools
 
-## 🧠 What You’ll Find Inside
+## What You’ll Find Inside
 
 This repo is organized like a learning brain, where each layer builds on the previous one.
 
@@ -32,9 +32,9 @@ This repo is organized like a learning brain, where each layer builds on the pre
 - Ethics and Future of AI
 - Projects
 
-## 📝 How This Repo Is Used
+## How This Repo Is Used
 
-- 📘 As my personal AI knowledge base
-- 🔁 For revision and reinforcement
-- 💼 As proof of learning depth for interviews
-- 🚀 As a foundation for real AI projects
+-  As my personal AI knowledge base
+-  For revision and reinforcement
+-  As proof of learning depth for interviews
+-  As a foundation for real AI projects
