@@ -1,37 +1,39 @@
 Important Points to Remember :
 
 1. Core Concepts of AI
-*   **Machine Learning (ML):** Systems that learn from data and improve over time without explicit programming.
-*   **Generative AI:** AI designed to generate new, original content (text, images, etc.) from learned patterns rather than just recognizing data.
-*   **Natural Language Processing (NLP):** Enables machines to understand, process, and generate human language (e.g., Siri, Alexa).
-*   **Expert Systems:** Simulates the decision-making of human experts using predefined "if-then" rules.
+*   Machine Learning (ML): Systems that learn from data and improve over time without explicit programming.
+*   Generative AI: AI designed to generate new, original content (text, images, etc.) from learned patterns rather than just recognizing data.
+*   Natural Language Processing (NLP): Enables machines to understand, process, and generate human language (e.g., Siri, Alexa).
+*   Expert Systems: Simulates the decision-making of human experts using predefined "if-then" rules.
 
-**2. How AI Works**
-The AI lifecycle involves five key steps: **Data Collection** (gathering large datasets), **Processing and Learning** (analyzing patterns), **Model Training** (adjusting settings to improve predictions), **Decision Making** (applying learned patterns to new data), and **Feedback and Improvement** (refining decisions over time).
+2. How AI Works
+The AI lifecycle involves five key steps: Data Collection (gathering large datasets), Processing and Learning (analyzing patterns), Model Training (adjusting settings to improve predictions), 
+Decision Making (applying learned patterns to new data), and Feedback and Improvement (refining decisions over time).
 
-**3. Categorizations of AI**
-*   **Based on Capabilities:**
-    *   **Narrow AI (Weak AI):** Designed for specific tasks; currently exists today.
-    *   **General AI (Strong AI):** Theoretical AI with human-like reasoning across all domains.
-    *   **Superintelligent AI:** Hypothetical AI that surpasses human intelligence.
-*   **Based on Functionalities:**
-    *   **Reactive Machines:** Reacts to current situations without using past experiences (e.g., chess-playing AI).
-    *   **Limited Memory:** Uses past data for future decisions (e.g., self-driving cars).
-    *   **Theory of Mind:** Theoretical AI capable of understanding human emotions and intentions.
-    *   **Self-Aware AI:** Hypothetical AI that possesses consciousness and self-awareness.
+3. Categorizations of AI
+*   Based on Capabilities:
+    *   Narrow AI (Weak AI): Designed for specific tasks; currently exists today.
+    *   General AI (Strong AI): Theoretical AI with human-like reasoning across all domains.
+    *   Superintelligent AI: Hypothetical AI that surpasses human intelligence.
+*   Based on Functionalities:
+    *   Reactive Machines: Reacts to current situations without using past experiences (e.g., chess-playing AI).
+    *   Limited Memory: Uses past data for future decisions (e.g., self-driving cars).
+    *   Theory of Mind: Theoretical AI capable of understanding human emotions and intentions.
+    *   Self-Aware AI: Hypothetical AI that possesses consciousness and self-awareness.
 
-**4. AI Training Models**
-*   **Supervised Learning:** Trains using **labeled data** to learn the relationship between inputs and outputs.
-*   **Unsupervised Learning:** Explores **unlabeled data** to find hidden structures, groupings, or trends.
-*   **Reinforcement Learning:** Learns by interacting with an environment and receiving feedback via **rewards or penalties**.
+4. AI Training Models
+*   Supervised Learning: Trains using labeled data to learn the relationship between inputs and outputs.
+*   Unsupervised Learning: Explores unlabeled data to find hidden structures, groupings, or trends.
+*   Reinforcement Learning: Learns by interacting with an environment and receiving feedback via rewards or penalties.
 
-**5. Advantages & Applications**
-*   **Key Benefits:** Automates repetitive tasks, improves data-driven decision making, personalizes user experiences, operates 24/7 without rest, and recognizes complex data patterns.
-*   **Industry Use Cases:** **Healthcare** (diagnosis/treatment), **Retail** (inventory/recommendations), **Customer Service** (chatbots), **Manufacturing** (predictive maintenance), and **Finance** (fraud detection and risk management).
+5. Advantages & Applications
+*   Key Benefits: Automates repetitive tasks, improves data-driven decision making, personalizes user experiences, operates 24/7 without rest, and recognizes complex data patterns.
+*   Industry Use Cases: Healthcare (diagnosis/treatment), Retail (inventory/recommendations), Customer Service (chatbots), 
+    Manufacturing (predictive maintenance), and Finance (fraud detection and risk management).
 
-**6. Challenges of AI**
-*   **Data Privacy and Security:** Protecting the vast amounts of sensitive data AI requires.
-*   **Bias and Fairness:** AI can inherit prejudices from its training data, leading to discriminatory outcomes.
-*   **Lack of Transparency:** Many models act as "black boxes," making it hard to understand how they reached a decision.
-*   **Job Displacement:** The automation of tasks raises concerns about job losses and the need for retraining.
-*   **Ethical Concerns:** Issues surrounding autonomous weapons, surveillance, and technological accountability.
+6. Challenges of AI
+*   Data Privacy and Security: Protecting the vast amounts of sensitive data AI requires.
+*   Bias and Fairness: AI can inherit prejudices from its training data, leading to discriminatory outcomes.
+*   Lack of Transparency: Many models act as "black boxes," making it hard to understand how they reached a decision.
+*   Job Displacement: The automation of tasks raises concerns about job losses and the need for retraining.
+*   Ethical Concerns: Issues surrounding autonomous weapons, surveillance, and technological accountability.
